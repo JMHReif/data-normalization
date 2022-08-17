@@ -1,0 +1,5 @@
+transaction_id,transaction_date,transaction_time,instore_yn,customer,loyalty_num
+150,2019-04-01,12:24:53,Y,Camille Tyler,102-192-8157
+156,2019-04-01,12:30:00,N,Griffith Lindsay,769-005-9211
+165,2019-04-01,16:44:46,Y,Stuart Nunez,796-362-1661
+199,2019-04-01,14:24:55,Y,Allistair Ramirez,253-876-9471

@@ -1,0 +1,5 @@
+transaction_id,transaction_date,transaction_time,instore_yn,customer_id
+150,2019-04-01,12:24:53,Y,604
+156,2019-04-01,12:30:00,N,32
+165,2019-04-01,16:44:46,Y,127
+199,2019-04-01,14:24:55,Y,112

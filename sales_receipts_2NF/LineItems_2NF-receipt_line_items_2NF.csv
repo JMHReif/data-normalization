@@ -1,0 +1,7 @@
+transaction_id,line_item_id,product_id,product,quantity,unit_price,promo_item_yn
+150,1,28,Columbian Medium Roast Sm,1,2.00,N
+156,1,34,Jamaican Coffee River Sm,1,2.45,N
+156,2,77,Oatmeal Scone,1,3.00,N
+165,1,54,Morning Sunrise Chai Rg,2,2.50,N
+199,1,41,Cappuccino Lg,2,4.25,N
+199,2,79,Jumbo Savory Scone,1,3.75,N

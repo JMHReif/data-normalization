@@ -1,0 +1,17 @@
+= Data Normalization
+
+This repository contains the accompanying data set for a blog post on data normalization.
+
+For the domain, we loaded a modified version of the publicly-available https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113[coffee shop sample data^] set from Kaggle that provides coffee shop sales receipts and other related information.
+
+== Content
+
+Accompanying blog post link coming soon!
+
+//* Blog post: ???[Do We Need Data Normalization Anymore?^]
+
+== Resources
+
+* Developer guide: https://neo4j.com/developer/graph-database/[What is a Graph Database^]
+* Blog post: https://medium.com/informatics/normalization-1nf-2nf-3nf-18bedb4faa29[Normalization: 1NF, 2NF, 3NF^]
+* Written learning: https://www.studytonight.com/dbms/database-normalization.php[Normalization of Database^]
