@@ -6,9 +6,7 @@ For the domain, we loaded a modified version of the publicly-available https://w
 
 == Content
 
-Accompanying blog post link coming soon!
-
-//* Blog post: ???[Do We Need Data Normalization Anymore?^]
+* Blog post: https://thenewstack.io/do-we-need-data-normalization-anymore/[Do We Need Data Normalization Anymore?^]
 
 == Resources
 
